@@ -3,3 +3,6 @@ Realice una mala practica y no guarde el archivo por ende todo lo que intente es
 Soy un grandisimo idiota.
 
 Este sera el tercer ejemplo viendo que otras cosas se agregan y se muestran en el comnando show
+
+
+siguiente prueba y seguimos agregando versiones
